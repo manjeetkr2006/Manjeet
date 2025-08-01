@@ -30,7 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://www.svgrepo.com/show/331760/hacking.svg" height="40" alt="Hacking" />
+ <img src="https://img.shields.io/badge/Ethical%20Hacker-%F0%9F%9B%A1%EF%B8%8F-informational?style=flat&logo=kalilinux&logoColor=white&color=blue" />
+
 </p>
 
 ---
@@ -47,18 +48,18 @@
 ### 🔗 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+<!--  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  </a> -->
   <a href="flpmanjeet44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+ <!-- <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
